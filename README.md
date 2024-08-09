@@ -5,8 +5,10 @@
 Este projeto é um sistema simples de cadastro e gerenciamento de usuários. Ele permite que os usuários se cadastrem com seu nome e visualizem uma lista de usuários cadastrados. Além disso, os usuários podem editar e excluir entradas na lista.
 
 ## Como Utilizar
-1. **Acessar o Sistema**: Abra o arquivo `login.html` em um navegador.
-2. **Login**: Insira seu e-mail e senha nos campos fornecidos e clique em "ACESSAR". Isso redirecionará para a página de cadastro.
+1. **Acessar o Sistema**: 
+  - Abra o arquivo `login.html` em um navegador.
+2. **Login**: 
+  - Insira seu e-mail e senha nos campos fornecidos e clique em "ACESSAR". Isso redirecionará para a página de cadastro.
 3. **Cadastro**: 
   - Na página `cadastro.html`, insira o nome do usuário no campo de texto.
   - Clique no botão "SALVAR" para adicionar o nome à lista de usuários.
